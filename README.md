@@ -1,4 +1,4 @@
-![IPL Auction Manager](ipl-auction-banner.png)
+![IPL Auction Manager](./ipl-auction-banner.png)
 # IPL-AUCTION-MANAGER-2026IPL AUCTION MANAGER 2026
 
 A Java-based console application that simulates an IPL player auction.
